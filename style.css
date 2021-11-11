@@ -1,0 +1,128 @@
+body {
+  background-color: rgb(30, 30, 30);
+}
+
+.container {
+  background-color: white;
+}
+
+a {
+  color: #d4e5ff;
+}
+
+h2 {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+.imagine {
+  width: 70%;
+}
+
+.img_logo {
+  justify-content: center;
+}
+
+.nav {
+  background-color: rgb(20, 20, 20);
+}
+
+@media (min-width: 576px) {
+  .nav {
+    height: 60px;
+    width: 92%;
+    align-content: center;
+    justify-content: space-evenly;
+  }
+}
+
+.tex {
+  color: white;
+  font-size: xx-large;
+  align-content: center;
+  align-items: center;
+}
+
+.row {
+  --bs-gutter-x: 0rem;
+}
+
+.bibs {
+  background-color: rgb(30, 30, 30);
+}
+
+.tab_form {
+  max-width: 960px;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.tab_di {
+  overflow: auto;
+}
+
+.table {
+  max-width: 100%;
+}
+
+.list {
+  max-width: 960px;
+  background-color: black;
+}
+
+footer {
+  height: 150px;
+  background-color: black;
+}
+
+.tex_fot {
+  color: white;
+  font-size: x-large;
+}
+
+.tex_form {
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 1280px;
+}
+
+.navbar {
+  background-color: #313236;
+  border-radius: 2px;
+  max-width: 800px;
+}
+
+.navbar a {
+  color: #aaa;
+  display: inline-block;
+  font-size: 15px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #ffffff;
+}
+
